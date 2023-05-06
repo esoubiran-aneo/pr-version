@@ -1,0 +1,28 @@
+{
+  "name": "pr-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoubiran-aneo/pr-version.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esoubiran-aneo/pr-version/issues"
+  },
+  "homepage": "https://github.com/esoubiran-aneo/pr-version#readme",
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.38.6",
+    "@types/node": "^20.1.0",
+    "changelogen": "^0.5.3",
+    "jiti": "^1.18.2",
+    "ofetch": "^1.0.1",
+    "semver": "^7.5.0"
+  }
+}
